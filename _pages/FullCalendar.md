@@ -14,7 +14,6 @@ permalink: /calendar/
 $(document).ready(function() {
 
 	$('#calendar').fullCalendar({
-		defaultView: 'listWeek'
 		events:'/HPC-SIG/calendar-data'
 	})
 
