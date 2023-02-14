@@ -117,5 +117,5 @@ tag_archive:
 collections:
   events:
     output: true
-    permalink: /events/:path/
+    permalink: /:events/:path/
     title: Events
