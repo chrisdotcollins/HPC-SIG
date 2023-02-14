@@ -4,7 +4,7 @@ title: "Event List"
 ---
 
 <div id="dates3">
-{% for post in site.posts %}
+{% for post in site.events %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}{% endunless %}
