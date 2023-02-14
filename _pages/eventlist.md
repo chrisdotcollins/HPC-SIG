@@ -7,7 +7,6 @@ title: "Event List"
 
 {% assign events_sorted = site.events | sort %}
   
-<!--{% for post in site.events %}-->
 {% for post in events_sorted %}
   {% assign currentdate = post.event_date | date: "%Y-%m" %}
   {% if currentdate != date %}
