@@ -21,6 +21,10 @@ $(document).ready(function() {
 
 </script>
 
+{% include header.html %}
+
 <h1>Calendar</h1>
 
 <div id="calendar"></div>
+
+{% include footer.html %}
