@@ -20,5 +20,7 @@ $(document).ready(function() {
 });
 
 </script>
-<H1>Calendar</H2>
+
+<h1>Calendar</h1>
+
 <div id="calendar"></div>
