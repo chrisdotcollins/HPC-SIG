@@ -8,6 +8,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Events"
-    url: /events/
+    url: /eventlist/
   - title: "Calendar"
     url: /calendar/
