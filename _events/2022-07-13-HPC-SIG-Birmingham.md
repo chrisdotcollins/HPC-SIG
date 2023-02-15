@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "HPC-SIG Meeting - Birmingham"
 event_date:   2022-07-14
 ---
