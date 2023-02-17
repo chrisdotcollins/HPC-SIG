@@ -11,3 +11,5 @@ main:
     url: /eventlist/
   - title: "Calendar"
     url: /calendar/
+  - title: "Vacancies"
+    url: /vacancies/
