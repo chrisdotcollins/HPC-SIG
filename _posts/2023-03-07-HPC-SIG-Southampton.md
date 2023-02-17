@@ -1,7 +1,7 @@
 ---
 layout: event_new
-title:  "HPC-SIG Meeting - Southampton"
-event_date:   2023-03-07
+title:  "HPC-SIG Meeting - Birmingham"
+event_date:   2022-07-14
 ---
 
-HPC Special Interest Group meeting, Southampon.
+HPC Special Interest Group meeting, Birmingham
