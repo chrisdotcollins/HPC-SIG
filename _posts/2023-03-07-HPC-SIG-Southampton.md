@@ -1,7 +1,7 @@
 ---
 layout: event_new
-title:  "HPC-SIG Meeting - Birmingham"
+title:  "HPC-SIG Meeting - Birmingham II"
 event_date:   2022-07-14
 ---
 
-HPC Special Interest Group meeting, Birmingham
+HPC Special Interest Group meeting, Birmingham II
