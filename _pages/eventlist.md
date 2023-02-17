@@ -12,7 +12,7 @@ title: "Event List"
     <h1 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentdate }}</h1>
     {% assign date = currentdate %}
   {% endif %}
-    <p>{{ post.event_date }} - <a href="/HPC-SIG/{{ post.url }}">{{ post.title }}</a></p>
+    <p>{{ post.event_date }} - <a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></p>
   {% if forloop.last %}{% endif %}
 {% endfor %}
 </div>  
