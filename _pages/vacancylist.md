@@ -3,8 +3,7 @@ permalink: /vacancylist/
 title: "HPC Related Vacancies"
 ---
 
-{% require 'date' %}
-{% current_time = DateTime.now %}
+{% assign current_time = DateTime.now %}
 <p>{{ current_time }}</p>
 
 
