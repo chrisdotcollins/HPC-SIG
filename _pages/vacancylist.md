@@ -4,7 +4,7 @@ title: "HPC Related Vacancies"
 ---
 
 <div id="dates3">
-  {% assign current_time = DateTime.now %}
+  {% assign current_time = site.time | date: '%Y-%m-%d' %}
   <p>{{ current_time }}</p>
   <p>Test Test Test</p>
 {% for post in site.vacancies %}
