@@ -121,7 +121,7 @@ collections:
     title: Events
     
 collections:
-  events:
+  vacancies:
     output: true
     permalink: /vacancies/:path/
     title: Vacancies
