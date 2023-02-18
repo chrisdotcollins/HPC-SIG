@@ -3,11 +3,9 @@ permalink: /vacancylist/
 title: "HPC Related Vacancies"
 ---
 
-{% assign current_time = DateTime.now %}
-<p>{{ current_time }}</p>
-
-
 <div id="dates3">
+  {% assign current_time = DateTime.now %}
+  <p>{{ current_time }}</p>
   <p>Test Test Test</p>
 {% for post in site.vacancies %}
   <p>{{ post.vacancies_date }} - <a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></p>
