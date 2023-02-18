@@ -14,6 +14,7 @@ title: "HPC Related Vacancies"
   {% assign vacancy_epoch = post.vacancies_date | date: "%s" %}
   <p>Site time {{ epoch_time }}</p>
   <p>Job time {{ vacancy_epoch }}</p>
+  {% if vacancy_epoch >= epoch_time %}
   <p>{{ post.vacancies_date }} - <a href="/HPC-SIG{{ post.url }}">{{ post.title }}{{ current_epoch}}</a></p>
   {% endif %}  
 {% endfor %}
