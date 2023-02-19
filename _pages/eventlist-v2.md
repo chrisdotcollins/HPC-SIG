@@ -1,5 +1,5 @@
 ---
-permalink: /eventlist/
+permalink: /eventlist-v2/
 title: "Upcoming Events"
 author_profile: false
 ---
