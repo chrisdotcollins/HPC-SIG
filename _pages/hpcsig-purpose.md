@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /hpcsig-purpose/
+title: "Purpose"
 sidebar:
   nav: "hpcsig"
 author_profile: false
