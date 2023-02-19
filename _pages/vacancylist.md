@@ -13,7 +13,7 @@ author_profile: false
   {% assign vacancy_epoch = post.vacancies_date | date: "%s" %}
 
   {% if vacancy_epoch >= epoch_time %}
-  <h2><a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="/HPC-SIG{{ post.url }}">{{ post.site }}{{ post.title }}</a></h2>
   <p>Location: {{ post.site }}<br>Closing date: {{ post.vacancies_date }}</p>
   {% endif %}  
 {% endfor %}
