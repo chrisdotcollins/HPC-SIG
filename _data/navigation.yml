@@ -7,3 +7,15 @@ main:
     url: /calendar/
   - title: "Vacancies"
     url: /vacancylist/
+
+hpcsig:
+  - title: About the HPC-SIG
+    children:
+      - title: "Purpose"
+        url: /hpcsig/purpose/
+      - title: "Why join the HPC-SIG"
+        url: /hpcsig/whyjoin/
+      - title: "Becoming a member"
+        url: /hpcsig/member/
+      - title: "Committee"
+        url: /hpcsig/committee/
