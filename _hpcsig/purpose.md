@@ -1,5 +1,4 @@
 ---
-permalink: /hpcsig/purpose/
 title: "HPC-SIG Purpose"
 sidebar:
   nav: "hpcsig"
