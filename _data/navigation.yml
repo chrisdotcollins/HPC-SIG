@@ -10,7 +10,7 @@ main:
 
 hpcsig:
   - title: About the HPC-SIG
-    children:
+    children: 
       - title: "Purpose"
         url: /hpcsig_purpose/
       - title: "Why join the HPC-SIG"
