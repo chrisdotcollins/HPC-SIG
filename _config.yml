@@ -124,5 +124,9 @@ collections:
     output: true
     permalink: /vacancies/:path/
     title: Vacancies
+  hpcsig:
+    output: true
+    permalink: /hpcsig/:path/
+    title: HPCSIG
     
 future: true
