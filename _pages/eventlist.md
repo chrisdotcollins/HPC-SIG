@@ -1,6 +1,6 @@
 ---
 permalink: /eventlist/
-title: "Event List"
+title: "Upcoming Events"
 ---
 
 <div id="dates3">
