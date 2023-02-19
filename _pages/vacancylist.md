@@ -1,6 +1,7 @@
 ---
 permalink: /vacancylist/
 title: "HPC Related Vacancies"
+author_profile: false
 ---
 
 <div id="dates3">
