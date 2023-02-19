@@ -1,6 +1,7 @@
 ---
 permalink: /eventlist/
 title: "Upcoming Events"
+author_profile: false
 ---
 
 <div id="dates3">
