@@ -13,7 +13,7 @@ title: "HPC Related Vacancies"
 
   {% if vacancy_epoch >= epoch_time %}
   <h2><a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></h2>
-  <p>Closing date: {{ post.vacancies_date }}<br>Location: {{ post.site }}</p>
+  <p>Location: {{ post.site }}<br>Closing date: {{ post.vacancies_date }}</p>
   {% endif %}  
 {% endfor %}
 </div>  
