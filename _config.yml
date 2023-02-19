@@ -106,6 +106,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_pages/eventlist"
+      values:
+        author_profile: false
 
 category_archive:
   type: liquid
