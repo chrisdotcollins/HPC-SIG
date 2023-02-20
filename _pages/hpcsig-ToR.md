@@ -1,6 +1,6 @@
 ---
 permalink: /hpcsig-ToR/
-title: "About"
+title: "Terms of Reference"
 sidebar:
   nav: "hpcsig"
 author_profile: false
