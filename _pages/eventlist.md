@@ -1,6 +1,6 @@
 ---
 permalink: /eventlist/
-title: "Upcoming Events"
+title: "HPCSIG Calendar"
 author_profile: false
 ---
 
