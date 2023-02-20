@@ -5,6 +5,7 @@ sidebar:
   nav: "hpcsig"
 author_profile: false
 output: true
+classes: wide
 ---
 
 For general enquiries or to register interest in joining the HPC-SIG as a new institution please get in touch via HPC-SIG-ENQUIRIES at JISCMAIL.AC.UK
