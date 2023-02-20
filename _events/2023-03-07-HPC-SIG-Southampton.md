@@ -9,7 +9,7 @@ HPC Special Interest Group meeting, Southampon.
 HPC-SIG Meeting Tuesday March 7th 2023 – University of Southampton
 Building 40, Hartley Suite, Highfield Campus, University Road, Southampton, Hampshire, SO17 1BJ
 
-Please register at (https://ti.to/hpc-sig/hpc-sig-meeting-tuesday-7th-march-2023-university-of-southampton)https://ti.to/hpc-sig/hpc-sig-meeting-tuesday-7th-march-2023-university-of-southampton
+Please register at [https://ti.to/hpc-sig/hpc-sig-meeting-tuesday-7th-march-2023-university-of-southampton](https://ti.to/hpc-sig/hpc-sig-meeting-tuesday-7th-march-2023-university-of-southampton)
 
 |  Time |                                                                                                                             |
 |:-----:|:---------------------------------------------------------------------------------------------------------------------------:|
