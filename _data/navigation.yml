@@ -13,10 +13,10 @@ hpcsig:
     children: 
       - title: "Purpose"
         url: /hpcsig-purpose/
-      - title: "Why join the HPC-SIG"
-        url: /hpcsig-whyjoin/
       - title: "Becoming a member"
         url: /hpcsig-member/
+      - title: "Why join the HPC-SIG"
+        url: /hpcsig-whyjoin/
       - title: "Committee"
         url: /hpcsig-committee/
       - title: "Terms of Reference"
