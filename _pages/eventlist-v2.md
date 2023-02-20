@@ -10,7 +10,7 @@ author_profile: false
   {% assign currentdate = post.event_date | date: "%Y-%m" %}
   {% if currentdate != date %}
     {% unless forloop.first %}{% endunless %}
-    {% assign currentmonth = post.event_date | date: "%Y-%B" %}
+    {% assign currentmonth = post.event_date | date: "%Y %B" %}
     <h1 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentmonth }}</h1>
     {% assign date = currentdate %}
   {% endif %}
