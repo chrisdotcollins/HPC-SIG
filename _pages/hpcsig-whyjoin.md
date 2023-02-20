@@ -5,6 +5,7 @@ sidebar:
   nav: "hpcsig"
 author_profile: false
 output: true
+classes: wide
 ---
 
 <h2>What joining the HPC-SIG can do for your institution</h2>
