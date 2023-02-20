@@ -16,7 +16,8 @@ author_profile: false
   {% if event_epoch >= epoch_time %}
     {% if currentdate != date %}
       {% unless forloop.first %}{% endunless %}
-      <h3 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentdate }}</h3>
+      {% assign currentmonth = post.event_date | date: "%Y %B" %}
+      <h3 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentmonth }}</h3>
       {% assign date = currentdate %}
     {% endif %}
       <p>{{ post.event_date }} - <a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></p>
@@ -32,7 +33,8 @@ author_profile: false
   {% if event_epoch <= epoch_time %}
     {% if currentdate != date %}
       {% unless forloop.first %}{% endunless %}
-      <h3 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentdate }}</h3>
+      {% assign currentmonth = post.event_date | date: "%Y %B" %}
+      <h3 id="y{{post.event_date | date: "%Y-%m"}}">{{ currentmonth }}</h3>
       {% assign date = currentdate %}
     {% endif %}
       <p>{{ post.event_date }} - <a href="/HPC-SIG{{ post.url }}">{{ post.title }}</a></p>
