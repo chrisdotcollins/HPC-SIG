@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "HPC-SIG"
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "The UK Academic High Performance Computing Special Interest Group"
   links:
