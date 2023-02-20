@@ -4,6 +4,7 @@ title: "About"
 sidebar:
   nav: "hpcsig"
 author_profile: false
+classes: wide
 ---
 
 The HPC Special Interest Group aims to promote the use of High Performance Computing (HPC) and other forms of high end computing, such as high throughput computing (HTC) in academia, by members working together and promoting best practice in HPC provision, management and support. It also seeks to promote the uptake of HPC and HTC in industry through collaborations and consultancy between academia and industrial partners.
