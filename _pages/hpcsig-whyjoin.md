@@ -7,9 +7,11 @@ author_profile: false
 output: true
 ---
 
-Updated 2023-02-19T2315
-
-What joining the HPC-SIG can do for your institution
+<h2>What joining the HPC-SIG can do for your institution</h2>
 
 
-What joining the HPC-SIG can do for you
+<h2>What joining the HPC-SIG can do for you</h2>
+* Networking
+* Peer support
+* Mentoring opportunities
+* Career development
