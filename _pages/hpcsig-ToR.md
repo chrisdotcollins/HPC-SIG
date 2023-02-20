@@ -1,5 +1,5 @@
 ---
-permalink: /hpcsig-whyjoin/
+permalink: /hpcsig-ToR/
 title: "About"
 sidebar:
   nav: "hpcsig"
