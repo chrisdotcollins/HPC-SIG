@@ -130,3 +130,6 @@ collections:
     title: Vacancies
 
 future: true
+
+atom_feed:
+  hide: true
