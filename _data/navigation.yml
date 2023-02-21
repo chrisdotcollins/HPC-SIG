@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Events"
     url: /eventlist/
-  - title: "Calendar"
-    url: /calendar/
+#  - title: "Calendar"
+#    url: /calendar/
   - title: "Vacancies"
     url: /vacancylist/
 
