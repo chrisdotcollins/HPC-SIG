@@ -2,6 +2,7 @@
 layout: event_new
 title:  "HPC-SIG JISC Network Workshop - Southampton"
 event_date:   2023-03-06
+class: wide
 ---
 
 HPC Special Interest Group and JISC Network Workshop, Southampon
