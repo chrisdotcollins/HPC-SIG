@@ -75,12 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+    - label: "Slack"
+      url: "https://hpc-sig.slack.com"
+      icon: "fab fa-slack"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://chrisdotcollins.github.io/HPC-SIG"
