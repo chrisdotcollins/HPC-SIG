@@ -2,6 +2,7 @@
 layout: event_new
 title:  "HPC-SIG Meeting - Bath"
 event_date:   2023-06-13
+class: wide
 ---
 
 HPC Special Interest Group meeting, Bath 
