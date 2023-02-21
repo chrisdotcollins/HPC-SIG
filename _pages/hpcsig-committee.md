@@ -1,14 +1,12 @@
 ---
 permalink: /hpcsig-committee/
-title: "HPCSIG Committee"
+title: "HPC-SIG Committee"
 sidebar:
   nav: "hpcsig"
 author_profile: false
 output: true
 classes: wide
 ---
-
-<h2>Committee</h2>
 
 | Role           | Name           | Institution                      |
 | -------------- | -------------- | -------------------------------- |
@@ -17,3 +15,5 @@ classes: wide
 | Treasurer      | Richard Martin | Strathclyde University           |
 | Secretary      | Andy Turner    | EPCC, University of Edinburgh    |
 | Communications | Chris Collins  | University of Hull               |
+
+More information on the roles of the HPC-SIG committee can be found at [https://chrisdotcollins.github.io/HPC-SIG/hpcsig-ToR/](https://chrisdotcollins.github.io/HPC-SIG/hpcsig-ToR/)
