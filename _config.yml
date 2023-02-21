@@ -88,7 +88,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://chrisdotcollins.github.io/HPC-SIG"
     - label: "Email"
-      icon "fas fa-email"
+      icon: "fas fa-email"
       url: "mailto:HPC-SIG-ENQUIRIES@JISCMAIL.AC.UK"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
